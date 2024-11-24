@@ -60,15 +60,21 @@ EverythingFinance is a comprehensive Swift application designed to help you trac
 ## Screenshots
 Explore the app's features with these screenshots:
 
-![Screenshot 2](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss2.png)
-![Screenshot 3](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss3.png)
-![Screenshot 4](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss4.png)
-![Screenshot 5](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss5.png)
-![Screenshot 6](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss6.png)
-![Screenshot 7](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss7.png)
-![Screenshot 8](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss8.png)
-![Screenshot 9](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss9.png)
-![Screenshot 10](https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss10.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss2.png" alt="Screenshot 2" width="30%" />
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss3.png" alt="Screenshot 3" width="30%" />
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss4.png" alt="Screenshot 4" width="30%" />
+
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss5.png" alt="Screenshot 5" width="30%" />
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss6.png" alt="Screenshot 6" width="30%" />
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss7.png" alt="Screenshot 7" width="30%" />
+
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss9.png" alt="Screenshot 9" width="30%" />
+<img src="https://github.com/Harsh23Kashyap/EverythingFinance/blob/main/Screenshots/ss10.png" alt="Screenshot 10" width="30%" />
+
+</div>
+
 
 ---
 
